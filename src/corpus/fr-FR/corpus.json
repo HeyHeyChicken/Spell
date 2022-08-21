@@ -4,7 +4,8 @@
     {
       "intent": "Spell.spellAWord",
       "utterances": [
-        "Épelle le mot {word|1}"
+        "Épelle le mot {word|1}",
+        "Épelle {word|1}"
       ],
       "answers": [
         "%text%"
