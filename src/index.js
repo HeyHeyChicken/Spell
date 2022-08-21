@@ -7,8 +7,7 @@ class Spell extends LIBRARIES.Skill {
     super(_main, _settings);
     const SELF = this;
 
-    console.log("Initialised");
-    this.Main.Manager.addAction("Spell.spell", function(_intent, _socket){
+    this.Main.Manager.addAction("Spell.spellAWord", function(_intent, _socket){
       console.log("gg");
       _intent.Variables.text = _intent.Variables.word.split("").join(" ");
       _intent.answer(_socket);

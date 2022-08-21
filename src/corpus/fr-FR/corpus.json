@@ -2,9 +2,9 @@
   "name": "Spell",
   "data": [
     {
-      "intent": "Spell.spell",
+      "intent": "Spell.spellAWord",
       "utterances": [
-        "Épelle le mot {word|0}"
+        "Épelle le mot {word|1}"
       ],
       "answers": [
         "%text%"
