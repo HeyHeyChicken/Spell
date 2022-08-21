@@ -1,14 +1,10 @@
 {
-	"worksOffline" : false,
+	"worksOffline" : true,
 	"description" : {
-		"fr-FR": "Une description en français.",
-		"en-US": "A description in english."
+		"fr-FR": "Cette compétence permet à votre assistant d'épeler des mots.",
+		"en-US": "This skill allows your assistant to spell words."
 	},
 	"language": [
-		"fr-FR",
-		"en-US",
-		"es-ES",
-		"it-IT",
-		"de-DE"
+		"fr-FR"
 	]
 }
