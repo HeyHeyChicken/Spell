@@ -5,7 +5,21 @@
       "intent": "Spell.spellAWord",
       "utterances": [
         "Épelle le mot {word|1}",
-        "Épelle {word|1}"
+        "Épelle {word|1}",
+        "Les pelles le mot {word|1}",
+        "Les pelles {word|1}",
+        "Est belle le mot {word|1}",
+        "Est belle {word|1}",
+        "Les belle le mot {word|1}",
+        "Les belle {word|1}",
+        "Et pelle le mot {word|1}",
+        "Et pelle {word|1}",
+        "Et elle le mot {word|1}",
+        "Et elle {word|1}",
+        "Intel le mot {word|1}",
+        "Intel {word|1}",
+        "Eiffel le mot {word|1}",
+        "Eiffel {word|1}"
       ],
       "answers": [
         "%text%"
